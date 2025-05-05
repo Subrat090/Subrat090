@@ -18,11 +18,12 @@
 
 <h2>👍 Coding Profiles</h2>
 <div class="coding-profiles" style="display: inline-block;">
-  <div class="profiles-button" style="display: inline-block; margin-left: 20px;">
-    <a href="https://leetcode.com/u/subrat09/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-    </a>
-  </div>
+  <a href="https://leetcode.com/u/subrat09/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://codolio.com/profile/Subrat09" target="_blank" style="margin-left: 20px;">
+    <img src="https://img.shields.io/badge/Codolio-Portfolio-green?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Codolio" />
+  </a>
 </div>
 
 <hr>
@@ -100,7 +101,7 @@
 
 <h2>🌐 Let's Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/subrat-mahapatro-088260252/" target="_blank">
+  <a href="https://www.linkedin.com/in/subrat-mahapatro-6109a1253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/Subrat090" target="_blank">
